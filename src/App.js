@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Start from './views/Start'
-import { /*Paper, Grid, List, ListItem, ListItemIcon, ListItemText, */ Button, Switch} from '@material-ui/core/'
+import { /*Paper, Grid, List, ListItem, ListItemIcon, ListItemText, Button, */ Switch} from '@material-ui/core/'
 // import ReactDOM from "react-dom";
 // import { createBrowserHistory } from "history";
 // import { Router, Route, Switch } from "react-router-dom";
