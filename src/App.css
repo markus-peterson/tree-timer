@@ -1,5 +1,10 @@
 .App {
+    position: fixed;
+    height: 100%;
+    width: 100%;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .App-logo {
@@ -11,6 +16,9 @@
     .App-logo {
         animation: App-logo-spin infinite 20s linear;
     }
+}
+.MuiSwitch-track {
+    background-color: #a3a3a3 !important;
 }
 
 .App-header {
